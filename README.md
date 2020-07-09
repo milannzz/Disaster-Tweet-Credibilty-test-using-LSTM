@@ -1,1 +1,1 @@
-# Data-Science---Simple-LSTM-Classifier
+Simple LSTM Model for Text Classification
